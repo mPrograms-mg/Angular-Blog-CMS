@@ -1,6 +1,6 @@
 # AngularBlog
 
-<!-- This project was Angular Blog CMS project angular material, node api, mongoDB,bootstrap -->
+This project was Angular Blog CMS project angular material, Node and Express api, mongoDB,bootstrap
 
 ## Development server
 
